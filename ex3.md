@@ -38,7 +38,7 @@
 
 # Инструменты для тестирования # 
 Postman 
-Devtools 
+DevTools 
 Figma
 Jira
 Charles 
